@@ -153,3 +153,9 @@ a {
         background-size: 100% 4px;
     }
 }
+
+@media (max-width: 800px) {
+    body .scanlines {
+        width: 100%;
+    }
+}
